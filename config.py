@@ -1,0 +1,7 @@
+# config.py
+
+TARGET_SIZE = (400, 255)
+OBJ2ID = {"f16": 0, "cougar": 1, "chinook": 2, "ah64": 3, "f15": 4, "seahawk": 5}
+FREEZE_UNITL = 12
+MEANS = [136.01424392, 148.27792699, 157.09680045]
+STDS = [48.72264438, 48.96054089, 52.18792645]
